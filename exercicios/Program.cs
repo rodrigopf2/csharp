@@ -50,6 +50,7 @@ namespace exercicios
             {
                 Console.WriteLine(obj);
             }
+            Console.WriteLine("Atualizacao de teste");
         }
     }
 }
