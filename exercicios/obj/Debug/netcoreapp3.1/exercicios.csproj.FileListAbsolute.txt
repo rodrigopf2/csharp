@@ -1,0 +1,14 @@
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.AssemblyReference.cache
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\Pet\Documents\aulas\csharp\exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.genruntimeconfig.cache
